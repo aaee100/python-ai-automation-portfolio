@@ -21,15 +21,15 @@ Expense Tracker is a desktop application built with **Python**, **Tkinter**, and
 
 ### Main Window
 
-![Main Window](screenshots/main-window.png)
+![Main Window](main-window.png)
 
 ### Expense List
 
-![Expense List](screenshots/expenses-table.png)
+![Expense List](expenses-table.png)
 
 ### Expense Summary
 
-![Expense Summary](screenshots/totals-window.png)
+![Expense Summary](totals-window.png)
 
 ---
 
