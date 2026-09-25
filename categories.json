@@ -1,0 +1,45 @@
+{
+  "Education": [
+    "Books",
+    "Course",
+    "Online Course",
+    "Python Course"
+  ],
+  "Entertainment": [
+    "Books",
+    "Concert",
+    "Movie",
+    "Streaming Subscription",
+    "Trash Novel"
+  ],
+  "Food": [
+    "Burek",
+    "Groceries",
+    "Restaurant",
+    "Snacks"
+  ],
+  "Health": [
+    "Dentist",
+    "Gym Membership",
+    "Pharmacy"
+  ],
+  "Other": [
+    "Misc"
+  ],
+  "Shopping": [
+    "Clothes",
+    "Electronics",
+    "Shoes"
+  ],
+  "Transport": [
+    "Bus Ticket",
+    "Gasoline",
+    "Taxi",
+    "Train"
+  ],
+  "Utilities": [
+    "Electric Bill",
+    "Internet Bill",
+    "Water Bill"
+  ]
+}
